@@ -1,0 +1,34 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# shorrrtcuts
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Makes new shortcuts available for RStudio editing.
+E. g. go to
+``` r
+Tools -> Modify Keyboard Shortcuts... -> Search for "Dashes" -> Chosse a shortcut.
+```
+
+## Installation
+
+You can install the development version of shorrrtcuts from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("max607/shorrrtcuts")
+```
