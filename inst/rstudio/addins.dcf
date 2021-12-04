@@ -1,0 +1,4 @@
+Name: Insert Dashes (---)
+Description: Inserts `---` at the cursor position up to 100 characters.
+Binding: set_new_chapter
+Interactive: false
