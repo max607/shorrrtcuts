@@ -9,13 +9,12 @@
 Makes new shortcuts available for RStudio editing. E. g. go to
 
 ``` r
-Tools -> Modify Keyboard Shortcuts... -> Search for "Dashes" -> Chosse a shortcut.
+Tools -> Modify Keyboard Shortcuts... -> Search for "Dashes" -> Choose a shortcut.
 ```
 
 ## Installation
 
-You can install the development version of shorrrtcuts from
-[GitHub](https://github.com/) with:
+You can install the package from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
